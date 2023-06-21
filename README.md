@@ -16,6 +16,9 @@ Object Detection using Haar feature-based cascade classifiers is an effective ob
 </table>
 
 ## Pedestrian Detection
-<br>
 https://github.com/Shubhamkumar-op/Detection-with-Haar-Cascade-Classifiers/assets/98223531/c536f50e-a7f2-4924-b1f2-2fc5996eea05
+
+## Car Detection
+https://github.com/Shubhamkumar-op/Detection-with-Haar-Cascade-Classifiers/assets/98223531/9d0c7dcf-91c4-43bf-9937-8ba650d9d59b
+
 
